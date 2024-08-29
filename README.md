@@ -12,10 +12,7 @@ Full-stack developer, tennis player, pianist, trumpet player, writer, and gym en
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan--arni/)
 
 ## ⚙️ Projects
-- [Searching for Dark Matter in ATLAS Proton-Proton Experiments Using Genetic Algorithms](https://github.com/rtenacity/dark-matter-genetic)
-  - Research project investigating dark matter using the dark photon model and genetic algorithms in CERN experiments. 
-- [Predict the type of a star based on its luminosity and temperature](https://github.com/rtenacity/starApp)
-  - Simple regression model that returns the type of a star given its luminosity and temperature.
+- [Searching for Dark Photon Production Using Genetic Algorithms](https://github.com/rtenacity/dark-matter-genetic)
 
 📫 How to reach me:
 - Discord - rtenacity
