@@ -2,7 +2,7 @@
 # Hi, I'm Rohan! 👋
 
 ## 🚀 About Me
-I'm a researcher at High Technology High School. I'm interested in the intersection between CS/AI/ML and Physics.
+I'm a researcher at High Technology High School. I'm interested in the intersection between Physics and AI/ML.
 
 
 ## 🔗 Links
